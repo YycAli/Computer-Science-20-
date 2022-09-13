@@ -3,7 +3,7 @@ public class Yourinitialasanoutput {
 	
 
 	
-	  public static void main(String[] args) {//Don't mark this didn't have to book so I made it 
+	  public static void main(String[] args) {
 	    Scanner myObj = new Scanner(System.in);
 	    System.out.println("");
 
