@@ -14,7 +14,10 @@ public class CRT {
 
 
  4.// The AverageScore displays the average set of scores
- 
+  
+  5.//package gradeCalculator
+  
+  6.//Public class Average Score 
  
  
  
